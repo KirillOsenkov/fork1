@@ -1,0 +1,8 @@
+[submodule "main/external/VS-Platform"]
+	path = main/external/VS-Platform
+	url = devdiv@vs-ssh.visualstudio.com:v3/devdiv/DevDiv/VS-Platform
+	branch = master
+[submodule "main/external/XtermSharp"]
+	path = main/external/XtermSharp
+	url = ../../sgmunn/XtermSharp
+	branch = vsm
