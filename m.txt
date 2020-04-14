@@ -2,7 +2,7 @@
 	path = main/external/VS-Platform
 	url = devdiv@vs-ssh.visualstudio.com:v3/devdiv/DevDiv/VS-Platform
 	branch = master
-[submodule "main/external/XtermSharp"]
-	path = main/external/XtermSharp
-	url = ../../migueldeicaza/XtermSharp
-	branch = master
+[submodule "main/external/MonoDevelop.Xml"]
+	path = main/external/MonoDevelop.Xml
+	url = https://github.com/xamarin/MonoDevelop.Xml
+	branch = mac
